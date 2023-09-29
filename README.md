@@ -10,7 +10,6 @@ FileWriteClass: This class writes a specific data string to the "dataemp.txt" fi
 FileAppendClass: This class appends the string "This data is appended..." to the existing content in the "dataemp.txt" file using a FileWriter. It ensures that the new data is added to the end of the file.
 
 DeleteFileClass: This class deletes a file named "dataemp1.txt" using the File class. It checks if the file exists and deletes it if so
-
 These classes demonstrate basic file handling operations in Java, including creating, writing, appending, and deleting files.
 
 
