@@ -12,7 +12,7 @@ FileAppendClass: This class appends the string "This data is appended..." to the
 DeleteFileClass: This class deletes a file named "dataemp1.txt" using the File class. It checks if the file exists and deletes it if so
 These classes demonstrate basic file handling operations in Java, including creating, writing, appending, and deleting files.
 mac
-dac
+
 
 
 
